@@ -3,13 +3,6 @@
 	"image": "mcr.microsoft.com/devcontainers/rust:1-1-bullseye",
 	"customizations": {
 		"vscode": {
-			"settings": {
-				"rust-analyzer.linkedProjects": [
-					"/workspaces/prog-rust-book/chap2/hello/Cargo.toml",
-					"/workspaces/prog-rust-book/chap2/gcd/Cargo.toml",
-					"/workspaces/prog-rust-book/chap2/actix-gcd/Cargo.toml"
-				]
-			},
 			"extensions": [
 				"rust-lang.rust-analyzer",
 				"formulahendry.code-runner"
