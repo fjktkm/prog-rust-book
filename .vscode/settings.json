@@ -1,7 +1,7 @@
 {
     "rust-analyzer.linkedProjects": [
-        "./chap2/hello/Cargo.toml",
-        "./chap2/gcd/Cargo.toml",
-        "./chap2/actix-gcd/Cargo.toml"
+        "chap2/hello/Cargo.toml",
+        "chap2/gcd/Cargo.toml",
+        "chap2/actix-gcd/Cargo.toml"
     ]
 }
